@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Joyería Wiston</string>
 
+
     <string name="create">Crea tu joya</string>
     <string name="list">Ver tús ordenes</string>
     <string name="done">Orden enviada correctamente</string>
@@ -45,5 +46,7 @@
 
     <string name="no_records">No hay órdenes en el momento</string>
     <string name="view_orders">Ver órdenes</string>
+    <string name="check_write_jewel">Marcar joya</string>
+
 
 </resources>
