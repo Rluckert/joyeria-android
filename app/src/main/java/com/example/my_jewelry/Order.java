@@ -1,6 +1,9 @@
 package com.example.my_jewelry;
 
-public class Order {
+import android.support.v7.app.AppCompatActivity;
+
+public class Order extends AppCompatActivity {
+
 
     public static double CalculateTotal (int option1, int option2, int option3){
         double Total = 0;

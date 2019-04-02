@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Joyería Wiston</string>
 
+    <string name="create">Crea tu joya</string>
+    <string name="list">Ver tús ordenes</string>
+    <string name="done">Orden enviada correctamente</string>
+
 
     <string name="create_jewel">Crea tu joya:</string>
     <string name="select_material">Selecciona un material:</string>
@@ -20,7 +24,10 @@
     <string name="price">Precio total:</string>
     <string name="btn_order">Ordenar</string>
 
-
+    <string-array name="menu">
+        <item>@string/create</item>
+        <item>@string/list</item>
+    </string-array>
 
     <string-array name="type_jewels">
         <item>@string/bracelet</item>
@@ -35,5 +42,8 @@
         <item>@string/ruby</item>
         <item>@string/quartz</item>
     </string-array>
+
+    <string name="no_records">No hay órdenes en el momento</string>
+    <string name="view_orders">Ver órdenes</string>
 
 </resources>
