@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Joyería Wiston</string>
+
+
+    <string name="create_jewel">Crea tu joya:</string>
+    <string name="select_material">Selecciona un material:</string>
+    <string name="select_stone">Selecciona una piedra:</string>
+    <string name="write_jewel">Marcar joya</string>
+
+    <string name="string">Cadena</string>
+    <string name="bracelet">Pulsera</string>
+
+    <string name="silver">Plata</string>
+    <string name="steel">Acero</string>
+    <string name="gold">Oro</string>
+    <string name="ruby">Rubí</string>
+    <string name="quartz">Cuarzo</string>
+
+
+    <string name="price">Precio total:</string>
+    <string name="btn_order">Ordenar</string>
+
+
+
+    <string-array name="type_jewels">
+        <item>@string/bracelet</item>
+        <item>@string/string</item>
+    </string-array>
+
+
+    <string-array name="materials">
+        <item>@string/silver</item>
+        <item>@string/steel</item>
+        <item>@string/gold</item>
+        <item>@string/ruby</item>
+        <item>@string/quartz</item>
+    </string-array>
+
+</resources>
